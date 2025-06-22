@@ -1,4 +1,4 @@
-Project Name (e.g., Assignment Project)
+Assignment Project
 This project is set up using Docker Compose, orchestrating a PostgreSQL database, a Spring Boot backend, and a React frontend.
 
 Prerequisites
