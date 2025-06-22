@@ -1,0 +1,6 @@
+[submodule "assignment-frontend"]
+	path = assignment-frontend
+	url = https://github.com/4nasSs/assignement-frontend.git
+[submodule "assignment-backend"]
+	path = assignment-backend
+	url = https://github.com/4nasSs/assignement-backend.git
